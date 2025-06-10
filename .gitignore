@@ -4,3 +4,8 @@ node_modules/
 logs
 *.log
 .env
+
+# Keep apps, tests and docs directories
+!apps/
+!tests/
+!docs/
