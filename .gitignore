@@ -1,1 +1,12 @@
+*.json
+node_modules/
+# Logs
+logs
+*.log
+.env
+
+# Keep apps, tests and docs directories
+!apps/
+!tests/
+!docs/
 
